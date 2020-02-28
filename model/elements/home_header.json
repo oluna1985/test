@@ -1,0 +1,23 @@
+{
+    "logio": "a > img",
+    "dropdown_search": ".dropbtn",
+    "list_search":{
+        "all": "[data-item='all'] > strong",
+        "assets": "[data-item='asset'] > strong",
+        "atributes": "[data-item='attribute'] > strong",
+        "rooms": "[data-item='room'] > strong",
+        "systems": "[data-item='system'] > strong",
+        "types": "[data-item='type'] > strong",
+        "work_orders":"[data-item='workorder'] > strong"
+    },
+    "atribute_search":{
+      "search_result": ".search-result",
+      "grey": ".text-grey",
+      "count": ".search__count > i",
+      ".search-view-all": ""
+    },
+    "search": "#YBsearch", 
+    "send_feedback": ".name > a",
+    "user": ".has-dropdown > :nth-child(1)"
+   
+}

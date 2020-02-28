@@ -1,0 +1,8 @@
+{
+    "username":"#username", 
+    "password":"#password", 
+    "button":".right",
+    "error": ".response-error" 
+}
+    
+
